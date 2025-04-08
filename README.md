@@ -22,11 +22,9 @@ Step 6. Stop
 
 ## Program:
 ```
-/*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: Rabi Baskar Praburajan
 RegisterNumber:  212224040257
-*/
 ```
 
 ## Output:
